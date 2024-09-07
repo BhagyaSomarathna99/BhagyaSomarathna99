@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhagyaSomarathna99  
+- 👋 Hi, I’m Bhagya Somarathna. 
 - 👀 I’m interested in **Cryptography**, **Cybersecurity**, and **Network Engineering**  
 - 💼 I’m looking to collaborate on **cryptographic algorithms**, **encryption projects**, and **network security**  
 - 📫 How to reach me: bhagyasomarathna99@gmail.com  
